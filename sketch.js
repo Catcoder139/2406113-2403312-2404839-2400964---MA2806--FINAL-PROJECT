@@ -1,20 +1,7 @@
 //Motivating Mysha 
 /*Credit: We based our code on Hugh Hammonds found on his github repository for the class
 changed it to suit our needs. We commented over it ourselves, changed some of the functions
-and developed it to fit the aims of our game (e.g. collecting items).
-
-Bugs: 
-(1)The player is able to run out of the canvas (it does not return after this)
-to fix this we will add boundaries to the canvas.
-
-Improvements:
-(1)We aim to make our canvas/tilemap bigger and make platforms smaller.
-We attempted this on our own, but were unsuccessful; we hope to do this
-with the help of our tutor.
-
-Notes:
-We divided commenting among ourselves, so there may be slight inconsistencies in
-the comment styles. */
+and developed it to fit the aims of our game (e.g. collecting items).*/
 let tilemap =[]; //creating tilemap array for first level.
 let tilemap2 =[];//creating tilemap array for second level.
 let tilemap3 = [];//creating tilemap array for third level.
